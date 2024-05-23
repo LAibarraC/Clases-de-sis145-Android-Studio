@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Clases de sis145</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Productos">Catalogo de Productos</string>
+    <string name="nombre">Cafe con Leche</string>
+    <string name="Cafe1">-El café con leche es una bebida hecha con café espresso y leche caliente en proporciones iguales.</string>
+    <string name="Cafe2">-Se prepara vertiendo café espresso en una taza y añadiendo leche caliente.</string>
+    <string name="nombre2">Cafe con Chocolate</string>
+    <string name="Cafe3">-El café con chocolate combina café espresso con chocolate caliente y a menudo espuma de leche.</string>
+    <string name="Cafe4">-Se sirve en una taza y puede adornarse con crema batida y cacao en polvo.</string>
+
+    <string name="nombre3">Cafe con Cacao</string>
+    <string name="Cafe5">-El café de cacao mezcla café recién hecho con jarabe o cacao en polvo.</string>
+    <string name="Cafe6">-Tiene un sabor que combina el amargor del café con el dulzor del cacao, siendo popular entre los amantes del café y el chocolate.</string>
+
+    <string name="nombre4">Cafe con Cacao</string>
+    <string name="Cafe7">-El café de cacao mezcla café recién hecho con jarabe o cacao en polvo.</string>
+    <string name="Cafe8">-Tiene un sabor que combina el amargor del café con el dulzor del cacao, siendo popular entre los amantes del café y el chocolate.</string>
+
+    <string name="crear">Crear Registro</string>
+    <string name="listar">Listas</string>
+
+</resources>
